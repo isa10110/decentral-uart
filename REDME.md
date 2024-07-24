@@ -1,6 +1,14 @@
 # Idea: 
 building a Bus system with out central Authorety to  build a activitiy based aktivation. 
 
+## enheancements: 
+
+if you  have some ideas please let me know :
+i would like to see: 
+- how to detect directions: of moving on this sythem 
+- how to predict directions with out of changeing the system to mutch. 
+
+
 # System: 
 Our Bus contains n element R nodes. 
 
